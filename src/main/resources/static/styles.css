@@ -1,0 +1,19 @@
+div {
+    border-bottom: black solid 1px;
+    margin-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+h2 {
+    padding-top: 2%;
+}
+
+ul {
+    list-style: none;
+}
+
+#box {
+    margin-top: 0;
+    padding-top: 0.5%;
+}
+
